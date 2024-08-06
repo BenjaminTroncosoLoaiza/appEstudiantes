@@ -1,4 +1,4 @@
-import config from '../config/knexConfig.js'
+import config from '../src/config/knexConfig.js'
 import knex from 'knex'
 export default class estudianteServices{
     constructor(){
